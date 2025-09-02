@@ -11,9 +11,11 @@
 
   "sites": [
 {"key": "js_豆瓣","name": "💥顺子推荐💥","type": 3,"api":"./drpy_libs/drpy2.min.js","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "./drpy_js/drpy.js"},
-{"key": "03影院","name": "💥03影院💥","type": 3,"api": "csp_XBPQ","jar":"./jar/spider.jar","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "./json/03%E5%BD%B1%E9%99%A2.json"},
+//{"key": "03影院","name": "💥03影院💥","type": 3,"api": "csp_XBPQ","jar":"./jar/spider.jar","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "./json/03%E5%BD%B1%E9%99%A2.json"},
 {"key":"csp_XBPQ_瓜子影视","name":"💥瓜子影视💥","type":3,"api":"csp_XBPQ","searchable": 1,"quickSearch": 0,"filterable": 1,"ext":{"请求头": "User-Agent$MOBILE_UA","编码": "UTF-8","主页url":"https://www.gzvod.cc/","分类url":"https://www.gzvod.cc/index.php/vod/show/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html","分类":"电影$1#电视剧$2#综艺$3#动漫$4#短剧$5"}},
 {"key":"瓜子","name":"🤖瓜子","type":3,"jar":"https://raw.bgithub.xyz/qist/tvbox/refs/heads/master/xiaosa/spider.jar","api":"csp_Gz360", "searchable": 1, "quickSearch": 0, "filterable": 1 },
+
+{"key": "csp_XBPQ_电视剧网","name": "💥电视剧网💥","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 0,"filterable": 1,"ext":"./json/电视剧网.json"},
 //{ "key": "瓜子app", "name": "💥瓜子App💥", "type": 3,"searchable":1,"quickSearch":0,"filterable":1, "api": "./drpy_libs/drpy2.min.js", "ext": "./js/guazi.js" },
 {"key":"影视大全1","name":"💥影视大全💥","type":3,"api":"csp_XBPQ","changeable": 1, "searchable": 1, "quickSearch": 0, "filterable": 1, "ext":"./json/影视大全.json"},
 {"key":"cj_旺旺1","name":"💥旺旺短剧💥","type":1,"api":"https://ww.tyyszy5.com/api.php/provide/vod/?ac=lis","playerType":1,"searchable":1,"changeable":1,"categories":["短剧"]},
@@ -80,7 +82,7 @@
 {"key": "csp_XBPQ_4K影院","name":"💚4K影院","type": 3,"searchable":1,"quickSearch":0,"filterable":1,"api": "csp_XBPQ","ext":"./json/4K影院.json"},
 {"key": "csp_XBPQ_奇优影院","name":"💚奇优影院","type": 3,"searchable":1,"quickSearch":0,"filterable":1,"api": "csp_XBPQ","ext":"./json/奇优影院.json"},
 {"key": "csp_XBPQ_7点影视","name":"💚7点影视","type": 3,"searchable":1,"quickSearch":0,"filterable":1,"api": "csp_XBPQ","ext":"./json/7点影视.json"},
-
+{"key": "csp_XBPQ_饿狼影院","name": "🍰饿狼影院","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 0,"filterable": 1,"ext":"./json/饿狼影院.json"},
 {"key": "csp_XBPQ_永乐视频","name":"🍰永乐视频","type": 3,"searchable":1,"quickSearch":0,"filterable":1,"api": "csp_XBPQ","ext":"./json/永乐视频.json"},
 
 {"key": "csp_XBPQ_🔥骚火","name":"🔥骚火","type": 3,"searchable":1,"quickSearch":0,"filterable":1,"api": "csp_XBPQ","ext":"./json/骚火.json"},
