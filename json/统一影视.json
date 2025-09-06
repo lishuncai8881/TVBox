@@ -1,4 +1,4 @@
 {
-    "主页url": "https://www.tyys1.com/", 
-    "搜索url": "https://www.tyys1.com/index.php/vod/search.html?wd={wd}",  
-    "分类url": "https://www.tyys1.com/index.php/vod/show/area/{area}/by/{by}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html"}
+    "主页url": "https://www.tyys2.com/", 
+    "搜索url": "https://www.tyys2.com/index.php/vod/search.html?wd={wd}",  
+    "分类url": "https://www.tyys2.com/index.php/vod/show/area/{area}/by/{by}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html"}
