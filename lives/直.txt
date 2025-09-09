@@ -190,8 +190,8 @@ BRTV新闻,http://106.53.99.30/tv/hot.php?id=bjxw
 凤凰资讯,http://106.53.99.30/tv/hot.php?id=fhzx
 凤凰香港,http://106.53.99.30/tv/hot.php?id=fhhk
 
-
-
+2025年93大阅兵,#genre#
+2025年9月3日大阅兵,http://jx.999315.xyz/yzzy/20250903/20785_ad349260/index.m3u8
 组播列表,#genre#
 
 CCTV1,http://1.30.81.248:4022/udp/239.125.2.66:4120
