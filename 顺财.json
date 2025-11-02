@@ -76,6 +76,7 @@
 {"key":"小红影视","name":"♨️小红影视","type":3,"api":"csp_XBPQ","searchable": 1,"quickSearch": 0,"filterable": 1,"ext":{"请求头": "User-Agent$MOBILE_UA","编码": "UTF-8","搜索url":"/search/{wd}-------------/","主页url":"https://xiaohys.com/","分类数组": "<li&&</li>","分类标题": "li>&&</a>"}},
 {"key":"XBPQ_红果短剧","name":"♨️红果短剧","type":3,"searchable":1,"quickSearch":0,"filterable":1,"api": "csp_XBPQ","ext":"./json/红果短剧.json"},
 {"key":"XBPQ_顺短剧","name":"♨️顺短剧","type":3,"searchable":1,"quickSearch":0,"filterable":1,"api": "csp_XBPQ","ext":"./json/顺短剧.json"},
+    {"key": "drpy_js_NT动漫","name": "🍥NT动漫[js]","type": 3,"api": "./drpy_libs/drpy2.min.js","ext": "./js/NT动漫.js"},
     {"key": "drpy_js_奇珍异兽","name": "🍥奇珍异兽[js]","type": 3,"api": "./drpy_libs/drpy2.min.js","ext": "./js/奇珍异兽.js"},
     {"key": "drpy_js_优酷","name": "🍥优酷[js]","type": 3,"api": "./drpy_libs/drpy2.min.js","ext": "./js/优酷.js"},
     {"key": "drpy_js_腾云驾雾","name": "🍥腾云驾雾[js]","type": 3,"api": "./drpy_libs/drpy2.min.js","ext": "./js/腾云驾雾.js"},
