@@ -17,8 +17,6 @@
     {"key": "drpy_js_腾讯视频 (官)","name": "🍥腾讯视频 (官)","type": 3,"searchable": 1,"quickSearch": 0,"filterable": 1,"api": "./drpy_libs/drpy2.min.js","ext": "./js/腾讯视频 (官).js"},  
     {"key": "drpy_js_芒果视频(官) ","name": "🍥芒果视频(官)","type": 3,"searchable": 1,"quickSearch": 0,"filterable": 1,"api": "./drpy_libs/drpy2.min.js","ext": "./js/芒果视频(官) .js"},
     {"key": "drpy_js_优酷 (官) ","name": "🍥优酷 (官) ","type": 3,"searchable": 1,"quickSearch": 0,"filterable": 1,"api": "./drpy_libs/drpy2.min.js","ext": "./js/优酷 (官) .js"},
-{"key":"csp_sp_龙门影视","name":"🤖爬虫┃龙门影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://movie.iqinu.com/api.php/v1.vod"},
-
     {"key":"csp_sp_龙门短剧","name":"🤖爬虫┃龙门短剧","type":1,"api":"https://api.wwzy.tv/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1,"categories":["短剧"]},
     {"key":"csp_sp_龙门动漫","name":"🤖爬虫┃龙门动漫","type":1,"api":"https://api.maoyanapi.top/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1,"categories":["国产动漫","里番动漫","日韩动漫","欧美动漫"]},
 {"key":"csp_XBPQ_瓜子影视","name":"💥瓜子影视💥","type":3,"api":"csp_XBPQ","searchable": 1,"quickSearch": 0,"filterable": 1,"ext":{"请求头": "User-Agent$MOBILE_UA","编码": "UTF-8","主页url":"https://www.gzvod.cc/","分类url":"https://www.gzvod.cc/index.php/vod/show/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html","分类":"电影$1#电视剧$2#综艺$3#动漫$4#短剧$5"}},
