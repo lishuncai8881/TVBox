@@ -73,6 +73,7 @@
 {"key": "csp_樱花动漫","name": "🌇樱花动漫","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 0,"filterable": 1,"ext":"./json/樱花动漫.json"},
 {"key":"csp_XBPQ_厂长影院","name":"🎬厂长影院","type":3,"api":"csp_XBPQ","searchable": 1,"quickSearch": 0,"filterable": 1,"ext":"./json/厂长影院.json"},
 {"key":"csp_XBPQ_老王影视","name":"🎬老王影视","type":3,"api":"csp_XBPQ","searchable": 1,"quickSearch": 0,"filterable": 1,"ext":"./json/%E8%80%81%E7%8E%8B.json"},
+{"key":"熊猫短剧","name":"💥熊猫短剧💥","type":3,"api":"csp_XBPQ","changeable": 1, "searchable": 1, "quickSearch": 0, "filterable": 1, "ext":"./json/熊猫短剧.json"},
 { "key": "午夜电影院", "name": "♨️午夜电影", "type": 3, "api": "csp_XBPQ","searchable": 1,"quickSearch": 0,"filterable": 1,"ext":"./json/午夜电影.json" },
 {"key":"小红影视","name":"♨️小红影视","type":3,"api":"csp_XBPQ","searchable": 1,"quickSearch": 0,"filterable": 1,"ext":{"请求头": "User-Agent$MOBILE_UA","编码": "UTF-8","搜索url":"/search/{wd}-------------/","主页url":"https://xiaohys.com/","分类数组": "<li&&</li>","分类标题": "li>&&</a>"}},
 {"key":"XBPQ_红果短剧","name":"♨️红果短剧","type":3,"searchable":1,"quickSearch":0,"filterable":1,"api": "csp_XBPQ","ext":"./json/红果短剧.json"},
