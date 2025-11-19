@@ -7,7 +7,7 @@
 
 {
 "spider": "./jar/xyqxbpq.jar",
-"wallpaper": "https://yydsys.top/bg.php","warningText":"顺财顺风顺水顺财神",
+"wallpaper": "https://pcsource.upupoo.com/theme/2001671980/video_2001671980fb1c_mark.mp4","warningText":"顺财顺风顺水顺财神",
 
   "sites": [
 {"key": "js_豆瓣","name": "💥顺子推荐💥","type": 3,"api":"./drpy_libs/drpy2.min.js","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "./drpy_js/drpy.js"},
@@ -418,7 +418,7 @@
             ]
         }, 
 {"key":"MV点播","name":"🎤顺万首MK","searchable": 1,"changeable": 1,"quickSearch": 0,"type": 3,"api": "./mv/live2cms.js","ext":"./mv/万首MV.json"},
-{"key": "hipy_js_KTV歌厅[听]", "name": "🎤KTV歌厅","type": 3,"api": "./lib/js/drpy2.min.js","searchable": 1,"quickSearch": 0,"filterable": 1,"order_num": 0,"ext": "./lib/js/KTV%E6%AD%8C%E5%8E%85%5B%E5%90%AC%5D.js"},
+//{"key": "hipy_js_KTV歌厅[听]", "name": "🎤KTV歌厅","type": 3,"api": "./lib/js/drpy2.min.js","searchable": 1,"quickSearch": 0,"filterable": 1,"order_num": 0,"ext": "./lib/js/KTV%E6%AD%8C%E5%8E%85%5B%E5%90%AC%5D.js"},
 {"key": "哔哩哔哩","name": "🅱️哔哩┃哔哩","type": 3,"api": "csp_Bili","jar": "./jar/fm.jar","style": {"type": "rect","ratio": 1.597},"searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "./Bilibili/哔哩哔哩.json"},
 {"key": "哔哩合集","name": "🅱️哔哩┃合集","type": 3,"api": "csp_Bili","jar": "./jar/fm.jar","style": {"type": "rect","ratio": 1.597},"searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "./Bilibili/哔哩合集.json"},	  
 {"key": "中医药","name": "🅱️中医┃药区","type": 3,"api": "csp_Bili","jar": "./jar/fm.jar","style": {"type": "rect","ratio": 1.597},"searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "./Bilibili/中医药.json"},
@@ -441,7 +441,7 @@
      "lives": [
       {
             "name": "影视",
-            "url": "./lives/直.txt",
+            "url": "./lives/直播.txt",
             "type": 0,
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
