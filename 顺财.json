@@ -15,7 +15,6 @@
 {"key":"甜圈短剧","name":"💟甜圈短剧","type":3,"jar": "https://pan.aa53.cn/view.php/4f3bd2d96c8acbac3085c397665536ef.png","api":"csp_TianQuanGuard","searchable":1,"quickSearch":0,"filterable":1,"timeout":10},
 
    {"key":"锦鲤短剧","name":"💟锦鲤短剧","type":3,"jar": "https://pan.aa53.cn/view.php/4f3bd2d96c8acbac3085c397665536ef.png","api":"csp_JinliGuard","searchable":1,"quickSearch":0,"filterable":1,"timeout":10},
-{"key": "Wexduanju001","name": "💟短剧神品","type": 3,"jar": "https://pan.aa53.cn/view.php/172c5b6351ce1531deb3821c41a7d9a4.png","api": "csp_Wexduanju001Guard","searchable": 1,"changeable": 1,"quickSearch": 0},
     {"key": "drpy_js_爱奇艺 (官)","name": "🍥爱奇艺 (官)","type": 3,"searchable": 1,"quickSearch": 0,"filterable": 1,"api": "./drpy_libs/drpy2.min.js","ext": "./js/爱奇艺 (官).js"},
     {"key": "drpy_js_腾讯视频 (官)","name": "🍥腾讯视频 (官)","type": 3,"searchable": 1,"quickSearch": 0,"filterable": 1,"api": "./drpy_libs/drpy2.min.js","ext": "./js/腾讯视频 (官).js"},  
     {"key": "drpy_js_芒果视频(官) ","name": "🍥芒果视频(官)","type": 3,"searchable": 1,"quickSearch": 0,"filterable": 1,"api": "./drpy_libs/drpy2.min.js","ext": "./js/芒果视频(官) .js"},
@@ -481,16 +480,6 @@
 {"key":"js_B站精简","name": "💕哔哩精简💕","type": 3,"api": "./lib/drpy2.min.js", "searchable": 1,"filterable": 1,"changeable": 0,"ext": "./lib/B站精简.js"},
 
 {"key":"hipy_js_种子音乐[听]","name":"🎧种子音乐[听](drpy_t3)","type":3,"api":"./drpy_libs/drpy2.min.js","searchable":1,"quickSearch":0,"filterable":1,"order_num": 0,"ext":"https://bitbucket.org/xduo/libs/raw/master/drpy_js/种子音乐[听].js" },
-    {
-      "key": "Iktv",
-      "name": "🎤KTV┃音乐🎤",
-      "type": 3,
-      "jar": "https://pan.aa53.cn/view.php/172c5b6351ce1531deb3821c41a7d9a4.png",
-      "api": "csp_WexIktvGuard",
-      "searchable": 1,
-      "changeable": 0
-    },
-
 {"key": "csp_Live2Vod_1","name": "┃🖥网络电视┃","type": 3,"api": "csp_Live2Vod","jar": "./jar/Live2Vod.jar","searchable": 1,"quickSearch": 0,"filterable": 1,"ext":"💥咪咕源$http://106.53.99.30/2025.txt#💥好用$http://8.138.7.223/51.txt#❇️台湾国籍$http://ku9.fr.to/ku9/1746018871.txt#闪电⚡直播$http://gg.7749.org/z/0/dzh.txt#🎆iptv6$http://123.iptv6.icu/view.php/825c7e86e090bd17a6448db7d858281b.txt#👑LIVE$http://8.138.7.223/live.txt#👑央视IPTV直播$https://iptv.b2og.com/txt/fmml_ipv6.txt#👑范明明$https://gh.llkk.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u#👑顺$https://gh.llkk.cc/https://raw.githubusercontent.com/lishuncai8881/c/main/2025zb.txt#👑猫TV$http://rihou.cc:555/gggg.nzk#👑梁旭$https://git.acwing.com/tv1/tv2/-/raw/main/15329222283母盘.txt#🌈顺其自然$https://git.acwing.com/lishuncai8881/tvbox/-/raw/main/2025zb.txt#🌈顺财$https://git.acwing.com/lishuncai8881/tvbox/-/raw/main/直播#💖宝TV$https://ygbh.site/bh.txt#👑杂$https://sourl.cn/cDxMy5#👑杂2$https://fel.forxhr.top:2022/down.php/9130cbef574b3d09b7c45feec3caca03.txt#💞晴天$https://git.acwing.com/yuyu10248/pg/-/raw/main/fh.txt&&&http://3650000.xyz/api/360.php?cid=6"}
 
 
