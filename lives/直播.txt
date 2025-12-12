@@ -1168,7 +1168,7 @@ CCTV11,http://1.30.81.248:4022/udp/239.125.1.134:4130
 内蒙古蒙语文化,http://1.30.81.248:4022/udp/239.125.1.71:4120
 内蒙古少儿,http://1.30.81.248:4022/udp/239.125.1.69:4120
 
-❤️IPTV,#genre#
+❤️备用,#genre#
 CCTV1综合,http://t.061899.xyz/tl/tl.php?id=cctv1
 CCTV2财经,http://t.061899.xyz/tl/tl.php?id=cctv2
 CCTV3综艺,http://t.061899.xyz/tl/tl.php?id=cctv3
