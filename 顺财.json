@@ -12,9 +12,9 @@
   "sites": [
 {"key": "js_豆瓣","name": "💥顺子推荐💥","type": 3,"api":"./drpy_libs/drpy2.min.js","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "./drpy_js/drpy.js"},
 {"key":"瓜子","name":"💥瓜子💥","type":3,"jar":"https://raw.bgithub.xyz/qist/tvbox/refs/heads/master/xiaosa/spider.jar","api":"csp_Gz360", "searchable": 1, "quickSearch": 0, "filterable": 1 },
-{"key":"甜圈短剧","name":"💟甜圈短剧","type":3,"jar": "https://pan.aa53.cn/view.php/4f3bd2d96c8acbac3085c397665536ef.png","api":"csp_TianQuanGuard","searchable":1,"quickSearch":0,"filterable":1,"timeout":10},
+{"key":"甜圈短剧","name":"💟甜圈短剧","type":3,"jar": "./jar/ok.jpg","api":"csp_TianQuanGuard","searchable":1,"quickSearch":0,"filterable":1,"timeout":10},
 
-   {"key":"锦鲤短剧","name":"💟锦鲤短剧","type":3,"jar": "https://pan.aa53.cn/view.php/4f3bd2d96c8acbac3085c397665536ef.png","api":"csp_JinliGuard","searchable":1,"quickSearch":0,"filterable":1,"timeout":10},
+   {"key":"锦鲤短剧","name":"💟锦鲤短剧","type":3,"jar": "./jar/ok.jpg","api":"csp_JinliGuard","searchable":1,"quickSearch":0,"filterable":1,"timeout":10},
     {"key": "drpy_js_爱奇艺 (官)","name": "🍥爱奇艺 (官)","type": 3,"searchable": 1,"quickSearch": 0,"filterable": 1,"api": "./drpy_libs/drpy2.min.js","ext": "./js/爱奇艺 (官).js"},
     {"key": "drpy_js_腾讯视频 (官)","name": "🍥腾讯视频 (官)","type": 3,"searchable": 1,"quickSearch": 0,"filterable": 1,"api": "./drpy_libs/drpy2.min.js","ext": "./js/腾讯视频 (官).js"},  
     {"key": "drpy_js_芒果视频(官) ","name": "🍥芒果视频(官)","type": 3,"searchable": 1,"quickSearch": 0,"filterable": 1,"api": "./drpy_libs/drpy2.min.js","ext": "./js/芒果视频(官) .js"},
