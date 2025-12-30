@@ -12,14 +12,12 @@
   "sites": [
 {"key": "js_豆瓣","name": "💥顺子推荐💥","type": 3,"api":"./drpy_libs/drpy2.min.js","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "./drpy_js/drpy.js"},
 {"key":"瓜子","name":"💥瓜子💥","type":3,"jar":"https://raw.bgithub.xyz/qist/tvbox/refs/heads/master/xiaosa/spider.jar","api":"csp_Gz360", "searchable": 1, "quickSearch": 0, "filterable": 1 },
+{"key":"聚合短剧","name":"🈴聚合短剧","type":3,"api":"csp_JuheShortDrama","jar":"https://jihulab.com/yoursmile2/TVBox/-/raw/main/Yoursmile.jar","searchable":1,"filterable":0,"switchable":0,"ext":{"host":{"百度":"https://api.jkyai.top","甜圈":"https://mov.cenguigui.cn","锦鲤":"https://api.jinlidj.com","番茄":"https://reading.snssdk.com","番茄2":"https://fqgo.52dns.cc","星芽":"https://app.whjzjx.cn","星芽登录":"https://u.shytkjgs.com","西饭":"https://xifan-api-cn.youlishipin.com","围观":"https://api.drama.9ddm.com","碎片":"https://free-api.bighotwind.cc","碎片图片":"https://speed.hiknz.com"}}},
 {"key":"甜圈短剧","name":"💟甜圈短剧","type":3,"jar": "./jar/ok.jpg","api":"csp_TianQuanGuard","searchable":1,"quickSearch":0,"filterable":1,"timeout":10},
 
    {"key":"锦鲤短剧","name":"💟锦鲤短剧","type":3,"jar": "./jar/ok.jpg","api":"csp_JinliGuard","searchable":1,"quickSearch":0,"filterable":1,"timeout":10},
    {"key":"盒马短剧","name":"💟盒马短剧","type":3,"jar": "./jar/ok.jpg","api":"csp_HeMaGuard","searchable":1,"quickSearch":0,"filterable":1,"timeout":10},
-    {"key": "drpy_js_爱奇艺 (官)","name": "🍥爱奇艺 (官)","type": 3,"searchable": 1,"quickSearch": 0,"filterable": 1,"api": "./drpy_libs/drpy2.min.js","ext": "./js/爱奇艺 (官).js"},
-    {"key": "drpy_js_腾讯视频 (官)","name": "🍥腾讯视频 (官)","type": 3,"searchable": 1,"quickSearch": 0,"filterable": 1,"api": "./drpy_libs/drpy2.min.js","ext": "./js/腾讯视频 (官).js"},  
-    {"key": "drpy_js_芒果视频(官) ","name": "🍥芒果视频(官)","type": 3,"searchable": 1,"quickSearch": 0,"filterable": 1,"api": "./drpy_libs/drpy2.min.js","ext": "./js/芒果视频(官) .js"},
-    {"key": "drpy_js_优酷 (官) ","name": "🍥优酷 (官) ","type": 3,"searchable": 1,"quickSearch": 0,"filterable": 1,"api": "./drpy_libs/drpy2.min.js","ext": "./js/优酷 (官) .js"},
+
     {"key":"csp_sp_龙门短剧","name":"🤖爬虫┃龙门短剧","type":1,"api":"https://api.wwzy.tv/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1,"categories":["短剧"]},
     {"key":"csp_sp_龙门动漫","name":"🤖爬虫┃龙门动漫","type":1,"api":"https://api.maoyanapi.top/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1,"categories":["国产动漫","里番动漫","日韩动漫","欧美动漫"]},
 {"key":"csp_XBPQ_瓜子影视","name":"💥瓜子影视💥","type":3,"api":"csp_XBPQ","searchable": 1,"quickSearch": 0,"filterable": 1,"ext":{"请求头": "User-Agent$MOBILE_UA","编码": "UTF-8","主页url":"https://www.gzvod.cc/","分类url":"https://www.gzvod.cc/index.php/vod/show/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html","分类":"电影$1#电视剧$2#综艺$3#动漫$4#短剧$5"}},
@@ -50,7 +48,7 @@
         "type": 3,
         "api": "csp_qiao2",
         "playerType": 2,
-        "jar": "./jar/lh250524.jar;md5;5dd760d88db059e93c31f77a7e785d3e",
+        "jar": "http://tv.laohu.cool/lh250524.jar;md5;5dd760d88db059e93c31f77a7e785d3e",
         "ext": "7lj763gg402i79425739i7jghj118797l4hj840gi18633331l4708g2h7145403549g44l8ii56i187681hkjj3hhgh1ih3l32j250lk1k786lj20j468hk3hli4l46gig4i3g7g2722328j0136h01i7g5183k22k7gg3i72hk81gl8k9839kl7i0707"
     }, 
 {"key": "csp_555电影","name": "👾555电影","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 0,"filterable": 1,"ext":"./json/555影视.json"},
@@ -72,6 +70,10 @@
 { "key": "午夜电影院", "name": "♨️午夜电影", "type": 3, "api": "csp_XBPQ","searchable": 1,"quickSearch": 0,"filterable": 1,"ext":"./json/午夜电影.json" },
 {"key":"XBPQ_红果短剧","name":"♨️红果短剧","type":3,"searchable":1,"quickSearch":0,"filterable":1,"api": "csp_XBPQ","ext":"./json/红果短剧.json"},
 {"key":"XBPQ_顺短剧","name":"♨️顺短剧","type":3,"searchable":1,"quickSearch":0,"filterable":1,"api": "csp_XBPQ","ext":"./json/顺短剧.json"},
+    {"key": "drpy_js_爱奇艺 (官)","name": "🍥爱奇艺 (官)","type": 3,"searchable": 1,"quickSearch": 0,"filterable": 1,"api": "./drpy_libs/drpy2.min.js","ext": "./js/爱奇艺 (官).js"},
+    {"key": "drpy_js_腾讯视频 (官)","name": "🍥腾讯视频 (官)","type": 3,"searchable": 1,"quickSearch": 0,"filterable": 1,"api": "./drpy_libs/drpy2.min.js","ext": "./js/腾讯视频 (官).js"},  
+    {"key": "drpy_js_芒果视频(官) ","name": "🍥芒果视频(官)","type": 3,"searchable": 1,"quickSearch": 0,"filterable": 1,"api": "./drpy_libs/drpy2.min.js","ext": "./js/芒果视频(官) .js"},
+    {"key": "drpy_js_优酷 (官) ","name": "🍥优酷 (官) ","type": 3,"searchable": 1,"quickSearch": 0,"filterable": 1,"api": "./drpy_libs/drpy2.min.js","ext": "./js/优酷 (官) .js"},
     {"key": "drpy_js_NT动漫","name": "🍥NT动漫[js]","type": 3,"api": "./drpy_libs/drpy2.min.js","ext": "./js/NT动漫.js"},
     {"key": "drpy_js_奇珍异兽","name": "🍥奇珍异兽[js]","type": 3,"api": "./drpy_libs/drpy2.min.js","ext": "./js/奇珍异兽.js"},
     {"key": "drpy_js_优酷","name": "🍥优酷[js]","type": 3,"api": "./drpy_libs/drpy2.min.js","ext": "./js/优酷.js"},
