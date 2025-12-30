@@ -12,6 +12,8 @@
   "sites": [
 {"key": "js_豆瓣","name": "💥顺子推荐💥","type": 3,"api":"./drpy_libs/drpy2.min.js","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "./drpy_js/drpy.js"},
 {"key":"瓜子","name":"💥瓜子💥","type":3,"jar":"https://raw.bgithub.xyz/qist/tvbox/refs/heads/master/xiaosa/spider.jar","api":"csp_Gz360", "searchable": 1, "quickSearch": 0, "filterable": 1 },
+        {"key": "星阁短剧","name": "🈴星阁｜短剧","type": 3,"api": "csp_XinggeDJ","jar":"https://raw.bgithub.xyz/qist/tvbox/refs/heads/master/xiaosa/spider.jar","searchable": 1,"changeable": 1,"quickSearch": 0,"filterable": 1},
+
 {"key":"聚合短剧","name":"🈴聚合短剧","type":3,"api":"csp_JuheShortDrama","jar":"https://jihulab.com/yoursmile2/TVBox/-/raw/main/Yoursmile.jar","searchable":1,"filterable":0,"switchable":0,"ext":{"host":{"百度":"https://api.jkyai.top","甜圈":"https://mov.cenguigui.cn","锦鲤":"https://api.jinlidj.com","番茄":"https://reading.snssdk.com","番茄2":"https://fqgo.52dns.cc","星芽":"https://app.whjzjx.cn","星芽登录":"https://u.shytkjgs.com","西饭":"https://xifan-api-cn.youlishipin.com","围观":"https://api.drama.9ddm.com","碎片":"https://free-api.bighotwind.cc","碎片图片":"https://speed.hiknz.com"}}},
 {"key":"甜圈短剧","name":"💟甜圈短剧","type":3,"jar": "./jar/ok.jpg","api":"csp_TianQuanGuard","searchable":1,"quickSearch":0,"filterable":1,"timeout":10},
 
