@@ -43,16 +43,6 @@
         "jar": "http://tv.laohu.cool/lh250524.jar;md5;5dd760d88db059e93c31f77a7e785d3e",
         "ext": "7lj763gg402i7942463j9j9jh84l8798l8gli652828g332i"
     },
-
-{
-        "key": "巧技二",
-        "name": "💙巧技┃仅搜索",
-        "type": 3,
-        "api": "csp_qiao2",
-        "playerType": 2,
-        "jar": "http://tv.laohu.cool/lh250524.jar;md5;5dd760d88db059e93c31f77a7e785d3e",
-        "ext": "7lj763gg402i79425739i7jghj118797l4hj840gi18633331l4708g2h7145403549g44l8ii56i187681hkjj3hhgh1ih3l32j250lk1k786lj20j468hk3hli4l46gig4i3g7g2722328j0136h01i7g5183k22k7gg3i72hk81gl8k9839kl7i0707"
-    }, 
 {"key": "csp_QQ","name": "🐧腾讯视频","type": 3,"api": "csp_QQ","searchable": 1,"quickSearch": 0,"filterable": 1,"jar":"./jar/xzy1029.jar"}, 
 {"key": "csp_MGTV","name": "🥭芒果视频","type": 3,"api": "csp_Mgtv","searchable": 1,"quickSearch": 0,"filterable": 1,"jar":"./jar/xzy1029.jar"}, 
 {"key": "csp_IQIYI","name": "🥝爱奇艺视频","type": 3,"api": "csp_IQIYI","searchable": 1,"quickSearch": 0,"filterable": 1,"jar":"./jar/xzy1029.jar"},
@@ -69,7 +59,7 @@
 {"key": "csp_蓝岛影视","name": "🦋蓝岛影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 0,"filterable": 1,"ext":"./json/蓝岛影视.json"},
 {"key": "csp_樱花动漫","name": "🌇樱花动漫","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 0,"filterable": 1,"ext":"./json/樱花动漫.json"},
 {"key":"csp_XBPQ_厂长影院","name":"🎬厂长影院","type":3,"api":"csp_XBPQ","searchable": 1,"quickSearch": 0,"filterable": 1,"ext":"./json/厂长影院.json"},
-{"key":"csp_XBPQ_老王影视","name":"🎬老王影视","type":3,"api":"csp_XBPQ","searchable": 1,"quickSearch": 0,"filterable": 1,"ext":"./json/%E8%80%81%E7%8E%8B.json"},
+
 { "key": "午夜电影院", "name": "♨️午夜电影", "type": 3, "api": "csp_XBPQ","searchable": 1,"quickSearch": 0,"filterable": 1,"ext":"./json/午夜电影.json" },
 {"key":"XBPQ_红果短剧","name":"♨️红果短剧","type":3,"searchable":1,"quickSearch":0,"filterable":1,"api": "csp_XBPQ","ext":"./json/红果短剧.json"},
 {"key":"XBPQ_顺短剧","name":"♨️顺短剧","type":3,"searchable":1,"quickSearch":0,"filterable":1,"api": "csp_XBPQ","ext":"./json/顺短剧.json"},
@@ -486,7 +476,7 @@
 {"key":"js_B站精简","name": "💕哔哩精简💕","type": 3,"api": "./lib/drpy2.min.js", "searchable": 1,"filterable": 1,"changeable": 0,"ext": "./lib/B站精简.js"},
 
 {"key":"hipy_js_种子音乐[听]","name":"🎧种子音乐[听](drpy_t3)","type":3,"api":"./drpy_libs/drpy2.min.js","searchable":1,"quickSearch":0,"filterable":1,"order_num": 0,"ext":"https://bitbucket.org/xduo/libs/raw/master/drpy_js/种子音乐[听].js" },
-{"key": "csp_Live2Vod_1","name": "┃🖥网络电视┃","type": 3,"api": "csp_Live2Vod","jar": "./jar/Live2Vod.jar","searchable": 1,"quickSearch": 0,"filterable": 1,"ext":"🌈顺财$https://gh-proxy.net/https://raw.githubusercontent.com/lishuncai8881/TVBox/master/lives/直播.txt#🎆暮雨$http://he.html-5.me/2/i/暮雨TV.txt#👑范明明$https://gh.llkk.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u#👑猫TV$http://rihou.cc:555/gggg.nzk#👑杂2$https://fel.forxhr.top:2022/down.php/9130cbef574b3d09b7c45feec3caca03.txt&&&http://3650000.xyz/api/360.php?cid=6"}
+{"key": "csp_Live2Vod_1","name": "┃🖥网络电视┃","type": 3,"api": "csp_Live2Vod","jar": "./jar/Live2Vod.jar","searchable": 1,"quickSearch": 0,"filterable": 1,"ext":"🌈顺财$https://gh-proxy.net/https://raw.githubusercontent.com/lishuncai8881/TVBox/master/lives/直播.txt#🎆暮雨$https://4key.cn/FP#👑范明明$https://gh.llkk.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u#👑猫TV$http://rihou.cc:555/gggg.nzk#👑杂2$https://fel.forxhr.top:2022/down.php/9130cbef574b3d09b7c45feec3caca03.txt&&&http://3650000.xyz/api/360.php?cid=6"}
 
 
 
