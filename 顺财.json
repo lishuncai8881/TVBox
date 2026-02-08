@@ -19,7 +19,8 @@
 
    {"key":"锦鲤短剧","name":"💟锦鲤短剧","type":3,"jar": "./jar/ok.jpg","api":"csp_JinliGuard","searchable":1,"quickSearch":0,"filterable":1,"timeout":10},
    {"key":"盒马短剧","name":"💟盒马短剧","type":3,"jar": "./jar/ok.jpg","api":"csp_HeMaGuard","searchable":1,"quickSearch":0,"filterable":1,"timeout":10},
-
+{"key": "js_星芽短剧","name": "🎦星芽短剧","type": 3,"api":"./drpy_libs/drpy2.min.js","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "./drpy_js/星芽短剧.js"},
+{"key": "猎手影视","name": "💯猎手｜影视","type": 3,"api": "./py/猎手影视.py","jar": "./jar/spider.jar","searchable": 1,"changeable": 1,"quickSearch": 0,"filterable": 1,"playerType": 2},
     {"key":"csp_sp_龙门短剧","name":"🤖爬虫┃龙门短剧","type":1,"api":"https://api.wwzy.tv/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1,"categories":["短剧"]},
     {"key":"csp_sp_龙门动漫","name":"🤖爬虫┃龙门动漫","type":1,"api":"https://api.maoyanapi.top/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1,"categories":["国产动漫","里番动漫","日韩动漫","欧美动漫"]},
 {"key":"csp_XBPQ_瓜子影视","name":"💥瓜子影视💥","type":3,"api":"csp_XBPQ","searchable": 1,"quickSearch": 0,"filterable": 1,"ext":{"请求头": "User-Agent$MOBILE_UA","编码": "UTF-8","主页url":"https://www.gzvod.cc/","分类url":"https://www.gzvod.cc/index.php/vod/show/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html","分类":"电影$1#电视剧$2#综艺$3#动漫$4#短剧$5"}},
@@ -32,8 +33,7 @@
 {"key":"麦剧屋","name":"💥麦剧屋💥","type":3,"api":"csp_XBPQ","changeable": 1, "searchable": 1, "quickSearch": 0, "filterable": 1, "ext":"./json/麦田剧屋.json"},
 {"key":"红果","name":"💥红果💥","type":3,"api":"csp_XBPQ","changeable": 1, "searchable": 1, "quickSearch": 0, "filterable": 1, "ext":"./json/红果.json"},
 {"key":"剧王","name":"💥剧王短剧💥","type":3,"api":"csp_XBPQ","changeable": 1, "searchable": 1, "quickSearch": 0, "filterable": 1, "ext":"./json/剧王短剧.json"},
-{"key":"红果","name":"💥红果短剧💥","type":3,"api":"csp_XBPQ","changeable": 1, "searchable": 1, "quickSearch": 0, "filterable": 1, "ext":"./json/红果短剧.json"},
-{"key":"偷乐","name":"💥偷乐短剧💥","type":3,"api":"csp_XBPQ","changeable": 1, "searchable": 1, "quickSearch": 0, "filterable": 1, "ext":"./json/偷乐短剧.json"},
+
 	  {
         "key": "剧评",
         "name": "💙剧评┃App",
@@ -51,8 +51,7 @@
 
 { "key": "奇异", "name": "💟奇异影视", "type": 0, "api": "https://iqiyizyapi.com/api.php/provide/vod/at/xml/", "searchable": 1, "changeable": 1, "playurl": "json:https://www.iqiyizyjx.com/?url=" },
 
-{"key": "js_星芽短剧","name": "🎦星芽短剧","type": 3,"api":"./drpy_libs/drpy2.min.js","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "./drpy_js/星芽短剧.js"},
-{"key": "猎手影视","name": "💯猎手｜影视","type": 3,"api": "./py/猎手影视.py","jar": "./jar/spider.jar","searchable": 1,"changeable": 1,"quickSearch": 0,"filterable": 1,"playerType": 2},
+
 {"key": "csp_蝶众短剧","name": "🦋蝶众短剧","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 0,"filterable": 1,"ext":"./json/蝶众短剧.json"},
 {"key": "csp_九洲短剧","name": "🦋九洲短剧","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 0,"filterable": 1,"ext":"./json/九洲短剧.json"},
 {"key": "csp_五五短剧","name": "🦋五五短剧","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 0,"filterable": 1,"ext":"./json/五五短剧.json"},
