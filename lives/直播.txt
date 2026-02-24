@@ -57,7 +57,84 @@ BT8视频32,https://txmov2.a.kwimgs.com/upic/2023/11/06/23/BMjAyMzExMDYyMzE0NDNf
 星空电影,http://iot-mqqt.111yao.cn:8080/live/diyp_starmovies.m3u8
 星空音乐,http://iot-mqqt.111yao.cn:8080/live/diyp_channelv.m3u8
 
+📺央视频道,#genre#
 
+CCTV1,http://106.53.99.30/tv/hot.php?id=cctv1
+CCTV2,http://106.53.99.30/tv/hot.php?id=cctv2
+CCTV3,http://106.53.99.30/tv/hot.php?id=cctv3
+CCTV4,http://106.53.99.30/tv/hot.php?id=cctv4
+CCTV5,http://106.53.99.30/tv/hot.php?id=cctv5
+CCTV5+,http://106.53.99.30/tv/hot.php?id=cctv5p
+CCTV6,http://106.53.99.30/tv/hot.php?id=cctv6
+CCTV7,http://106.53.99.30/tv/hot.php?id=cctv7
+CCTV8,http://106.53.99.30/tv/hot.php?id=cctv8
+CCTV9,http://106.53.99.30/tv/hot.php?id=cctv9
+CCTV10,http://106.53.99.30/tv/hot.php?id=cctv10
+CCTV11,http://106.53.99.30/tv/hot.php?id=cctv11
+CCTV12,http://106.53.99.30/tv/hot.php?id=cctv12
+CCTV13,http://106.53.99.30/tv/hot.php?id=cctv13
+CCTV14,http://106.53.99.30/tv/hot.php?id=cctv14
+CCTV15,http://106.53.99.30/tv/hot.php?id=cctv15
+CCTV16,http://1.30.81.248:4022/udp/239.125.2.218:4120
+CCTV16,http://106.53.99.30/tv/hot.php?id=cctv16
+CCTV17,http://106.53.99.30/tv/hot.php?id=cctv17
+CCTV17,http://117.14.55.26:35455/gaoma/cctv17.m3u8
+
+📺卫视频道,#genre#
+
+北京卫视,http://106.53.99.30/tv/hot.php?id=bjws
+北京IPTV4K,http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/1.m3u8?GuardEncType=2&accountinfo=~~V2.0~e2qS8h6u-xp3gd50vNr1sw~_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPPFD3HVWEytEVyliOxehfe%2CEND
+浙江卫视,http://106.53.99.30/tv/hot.php?id=zjws
+浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
+江苏卫视,http://106.53.99.30/tv/hot.php?id=jsws
+东方卫视,http://106.53.99.30/tv/hot.php?id=dfws
+江西卫视,http://106.53.99.30/tv/hot.php?id=jxws
+安徽卫视,http://106.53.99.30/tv/jzb.php?id=ahws
+安徽卫视,https://stream1.freetv.fun/2dfbf4a578f8b5f36550789532cc274e0268ee0c3618e2b2313a748ae8517b56.m3u8
+东南卫视,http://106.53.99.30/tv/hot.php?id=dnws
+山东卫视,http://106.53.99.30/tv/hot.php?id=sdws
+山西卫视,http://106.53.99.30/tv/hot.php?id=sxiws
+陕西卫视,http://106.53.99.30/tv/hot.php?id=sxws
+河北卫视,http://106.53.99.30/tv/hot.php?id=hbws
+河北卫视,http://hls.hsrtv.cn/live/hbws.m3u8
+河南卫视,http://183.131.246.250:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
+河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
+河南卫视,http://106.53.99.30/tv/hot.php?id=hnws
+湖北卫视,http://106.53.99.30/tv/hot.php?id=hubws
+湖南卫视,http://106.53.99.30/tv/hot.php?id=hunws
+湖南卫视,http://183.215.134.239:19901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
+湖南卫视,http://58.221.214.82:9901/tsfile/live/0128_1.m3u8
+黑龙江卫视,http://106.53.99.30/tv/hot.php?id=hljws
+吉林卫视,http://106.53.99.30/tv/hot.php?id=jlws
+辽宁卫视,http://106.53.99.30/tv/api.php?id=lnws
+辽宁卫视,http://222.173.108.238:352/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
+天津卫视,http://222.173.108.238:352/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
+天津卫视,http://115.149.139.141:10001/tsfile/live/1036_1.m3u8
+甘肃卫视,http://106.53.99.30/tv/hot.php?id=gsws
+甘肃卫视,http://120.76.248.139/live/bfgd/4200000119.m3u8
+广东卫视,http://106.53.99.30/tv/hot.php?id=gdws
+广西卫视,http://106.53.99.30/tv/jzb.php?id=gxws
+四川卫视,http://106.53.99.30/tv/hot.php?id=scws
+贵州卫视,http://106.53.99.30/tv/hot.php?id=gzws
+云南卫视,http://106.53.99.30/tv/hot.php?id=ynws
+重庆卫视,http://106.53.99.30/tv/hot.php?id=cqws
+宁夏卫视,http://stream.nxtv.com.cn/wspd/sd/live.m3u8
+海南卫视,http://106.53.99.30/tv/hot.php?id=hinws
+青海卫视,http://106.53.99.30/tv/hot.php?id=qhws
+新疆卫视,http://106.53.99.30/tv/hot.php?id=xjws
+兵团卫视,http://106.53.99.30/tv/api.php?id=btws
+兵团卫视,http://liveout.btzx.com.cn/62ds9e/yil08g.m3u8#https://test5.btzx.com.cn/live/2023bt.stream/playlist.m3u8
+内蒙古卫视,http://106.53.99.30/tv/hot.php?id=nmgws
+西藏卫视,http://106.53.99.30/tv/hot.php?id=xzws
+西藏卫视,http://php.jdshipin.com:8880/xztv.php?id=ws
+大湾区卫视,http://106.53.99.30/tv/hot.php?id=dwqws
+深圳卫视,http://106.53.99.30/tv/hot.php?id=szws
+厦门卫视,https://live1b.kxm.xmtv.cn/xmtvbf/playlist.m3u8 
+厦门卫视,https://live1b.kxm.xmtv.cn/xmtvbf/tvzb/live.m3u8 
+嘉佳卡通,http://106.53.99.30/tv/hot.php?id=jjkt
+CETV 1 中国教育,http://106.53.99.30/tv/hot.php?id=cetv1
+CETV 2 中国教育,http://106.53.99.30/tv/hot.php?id=cetv2
+CETV 4 中国教育,http://106.53.99.30/tv/hot.php?id=cetv4
 🇨🇳港台接口,#genre#
 凤凰中文,http://pull-vivek.speedws.com/live/aaafhzw.flv
 凤凰资讯,http://pull-vivek.speedws.com/live/aaafhzx.flv
@@ -123,7 +200,7 @@ AXN,http://43.251.226.89:5050/smart.php?id=axn_twn&token=8522
 东森洋片,http://iptv.4666888.xyz/iptv2A.php?id=45
 东森洋片,http://43.251.226.89:5050/smart.php?id=ettvwestern&token=8522
 
-央 视,#genre#
+❤️央 视卫视❤️,#genre#
 CCTV-1,http://74.91.26.218:82/live/cctv1hd.m3u8
 CCTV-2,http://74.91.26.218:82/live/cctv2hd.m3u8
 CCTV-3,http://74.91.26.218:82/live/cctv3hd.m3u8
@@ -174,7 +251,6 @@ CCTV15-音乐,http://74.91.26.218:82/live/cctv15hd.m3u8
 CCTV15-音乐,http://139.227.221.119:9901/tsfile/live/0015_1.m3u8
 CCTV16-奥利匹克,http://74.91.26.218:82/live/cctv16hd.m3u8
 CCTV17-农业农村,http://74.91.26.218:82/live/cctv17hd.m3u8
-卫 视,#genre#
 北京卫视,http://43.156.8.127:5050/ysp?id=2024052703&pid=600002309&q=fhd
 北京卫视,http://139.227.221.119:9901/tsfile/live/0122_1.m3u8
 东方卫视,http://69.30.246.194/live/dfws.m3u8
