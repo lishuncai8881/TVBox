@@ -48,7 +48,19 @@
 {"key":"机器人","name":"👾机器人","type":3,"api":"csp_Ikanbot","searchable":1,"quickSearch":0,"changeable":1,"ext":"https://v.ikanbot.com","jar":"./jar/spider.jar;md5;235cfc9a1a21ce386bac0861100492c9"},
 
 { "key": "奇异", "name": "💟奇异影视", "type": 0, "api": "https://iqiyizyapi.com/api.php/provide/vod/at/xml/", "searchable": 1, "changeable": 1, "playurl": "json:https://www.iqiyizyjx.com/?url=" },
-
+{
+      "key": "大头影视",
+      "name": "🌟 大头｜影视",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "api": "csp_XBPQ",
+      "ext": {
+        "分类": "电影$1#剧集$2#综艺$3#动漫$4#动画片$5#短剧$20",
+        "分类url": "https://www.90sr.com/boom/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html"
+      }
+    },
 
 {"key": "csp_蝶众短剧","name": "🦋蝶众短剧","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 0,"filterable": 1,"ext":"./json/蝶众短剧.json"},
 {"key": "csp_九洲短剧","name": "🦋九洲短剧","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 0,"filterable": 1,"ext":"./json/九洲短剧.json"},
@@ -60,6 +72,7 @@
 { "key": "午夜电影院", "name": "♨️午夜电影", "type": 3, "api": "csp_XBPQ","searchable": 1,"quickSearch": 0,"filterable": 1,"ext":"./json/午夜电影.json" },
 {"key":"XBPQ_红果短剧","name":"♨️红果短剧","type":3,"searchable":1,"quickSearch":0,"filterable":1,"api": "csp_XBPQ","ext":"./json/红果短剧.json"},
 {"key":"XBPQ_顺短剧","name":"♨️顺短剧","type":3,"searchable":1,"quickSearch":0,"filterable":1,"api": "csp_XBPQ","ext":"./json/顺短剧.json"},
+    {"key": "drpy_js_两个BT","name": "🍥两个BT.js","type": 3,"searchable": 1,"quickSearch": 0,"filterable": 1,"api": "./drpy_libs/drpy2.min.js","ext": "./js/两个BT.js"},
     {"key": "drpy_js_爱奇艺 (官)","name": "🍥爱奇艺 (官)","type": 3,"searchable": 1,"quickSearch": 0,"filterable": 1,"api": "./drpy_libs/drpy2.min.js","ext": "./js/爱奇艺 (官).js"},
     {"key": "drpy_js_腾讯视频 (官)","name": "🍥腾讯视频 (官)","type": 3,"searchable": 1,"quickSearch": 0,"filterable": 1,"api": "./drpy_libs/drpy2.min.js","ext": "./js/腾讯视频 (官).js"},  
     {"key": "drpy_js_芒果视频(官) ","name": "🍥芒果视频(官)","type": 3,"searchable": 1,"quickSearch": 0,"filterable": 1,"api": "./drpy_libs/drpy2.min.js","ext": "./js/芒果视频(官) .js"},
