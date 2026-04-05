@@ -12,8 +12,6 @@
   "sites": [
 {"key": "js_豆瓣","name": "💥顺子推荐💥","type": 3,"api":"./drpy_libs/drpy2.min.js","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "./drpy_js/drpy.js"},
 {"key":"瓜子","name":"💥瓜子💥","type":3,"jar":"https://raw.bgithub.xyz/qist/tvbox/refs/heads/master/xiaosa/spider.jar","api":"csp_Gz360", "searchable": 1, "quickSearch": 0, "filterable": 1 },
-{"name":"🐱喵喵短剧","key":"喵喵短剧","type":3,"api":"csp_QmdjAmns","searchable":1,"filterable":1,"quickSearch":0,"changeable":1,"jar":"https://jihulab.com/yoursmile2/TVBox/-/raw/master/custom_spider.jar"},
-{"name":"⭐星星短剧","key":"星星短剧","type":3,"api":"csp_XydjAmns","searchable":1,"filterable":1,"quickSearch":0,"changeable":1,"jar":"https://jihulab.com/yoursmile2/TVBox/-/raw/master/custom_spider.jar"},
 {"key":"聚合短剧","name":"🈴聚合短剧","type":3,"api":"csp_JuheShortDrama","jar":"https://jihulab.com/yoursmile2/TVBox/-/raw/master/Yoursmile.jar","searchable":1,"filterable":0,"switchable":0,"ext":{"host":{"百度":"https://api.jkyai.top","甜圈":"https://mov.cenguigui.cn","锦鲤":"https://api.jinlidj.com","番茄":"https://reading.snssdk.com","番茄2":"https://fqgo.52dns.cc","星芽":"https://app.whjzjx.cn","星芽登录":"https://u.shytkjgs.com","西饭":"https://xifan-api-cn.youlishipin.com","围观":"https://api.drama.9ddm.com","碎片":"https://free-api.bighotwind.cc","碎片图片":"https://speed.hiknz.com"}}},
 {"key":"甜圈短剧","name":"💟甜圈短剧","type":3,"jar": "./jar/ok.jpg","api":"csp_TianQuanGuard","searchable":1,"quickSearch":0,"filterable":1,"timeout":10},
    {"key":"盒马短剧","name":"🦓盒马┃短剧","type":3,"api":"csp_AweSomeGuard", "jar": "./jar/河马.jpg","searchable":1,"quickSearch":1,"changeable":0,"filterable":1,"ext": {"sp": "HeMa"}, "timeout":10},
@@ -21,12 +19,10 @@
 {"key": "猎手影视","name": "💯猎手｜影视","type": 3,"api": "./py/猎手影视.py","jar": "./jar/spider.jar","searchable": 1,"changeable": 1,"quickSearch": 0,"filterable": 1,"playerType": 2},
     {"key":"csp_sp_龙门短剧","name":"🤖爬虫┃龙门短剧","type":1,"api":"https://api.wwzy.tv/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1,"categories":["短剧"]},
     {"key":"csp_sp_龙门动漫","name":"🤖爬虫┃龙门动漫","type":1,"api":"https://api.maoyanapi.top/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1,"categories":["国产动漫","里番动漫","日韩动漫","欧美动漫"]},
-{"key":"csp_XBPQ_瓜子影视","name":"💥瓜子影视💥","type":3,"api":"csp_XBPQ","searchable": 1,"quickSearch": 0,"filterable": 1,"ext":{"请求头": "User-Agent$MOBILE_UA","编码": "UTF-8","主页url":"https://www.gzvod.cc/","分类url":"https://www.gzvod.cc/index.php/vod/show/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html","分类":"电影$1#电视剧$2#综艺$3#动漫$4#短剧$5"}},
 
 {"key": "csp_XBPQ_电视剧网","name": "💥电视剧网💥","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 0,"filterable": 1,"ext":"./json/电视剧网.json"},
 //{ "key": "瓜子app", "name": "💥瓜子App💥", "type": 3,"searchable":1,"quickSearch":0,"filterable":1, "api": "./drpy_libs/drpy2.min.js", "ext": "./js/guazi.js" },
 {"key":"影视大全1","name":"💥影视大全💥","type":3,"api":"csp_XBPQ","changeable": 1, "searchable": 1, "quickSearch": 0, "filterable": 1, "ext":"./json/影视大全.json"},
-{"key":"cj_旺旺1","name":"💥旺旺短剧💥","type":1,"api":"https://ww.tyyszy5.com/api.php/provide/vod/?ac=lis","playerType":1,"searchable":1,"changeable":1,"categories":["短剧"]},
 { "key": "麦田影院", "name": "🤖麦田影院", "type": 3, "api": "csp_XBPQ","jar":"https://raw.bgithub.xyz/qist/tvbox/refs/heads/master/xiaosa/spider.jar","quickSearch": 0,"ext":"./json/麦田影院.json"},
 {"key":"麦剧屋","name":"💥麦剧屋💥","type":3,"api":"csp_XBPQ","changeable": 1, "searchable": 1, "quickSearch": 0, "filterable": 1, "ext":"./json/麦田剧屋.json"},
 {"key":"红果","name":"💥红果💥","type":3,"api":"csp_XBPQ","changeable": 1, "searchable": 1, "quickSearch": 0, "filterable": 1, "ext":"./json/红果.json"},
@@ -123,8 +119,6 @@
 {"key":"csp_XBPQ_BT4K影院","name":"👑BT4K影院","type":3,"api":"csp_XBPQ", "searchable":1,"quickSearch":0,"filterable":1,"ext":"./json/BT4K影院.json"},
 {"key":"csp_XBPQ_4K动漫","name":"👑4K动漫","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":0,"filterable":1,"ext":"./json/4K动漫.json"},
 {"key":"csp_XBPQ_追剧之王","name":"🌈PTT-追剧之王","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":0,"filterable":1,"ext":"./json/追剧之王.json"},
-{"key": "好趣网","name": "🎬电视好趣网[js]","type": 3,"searchable": 1,"quickSearch": 0,"filterable": 1,"api": "./lib/js/drpy2.min.js","ext": "http://ztha.top/catjs/JS/js/好趣网.js"},
-
 { "key": "动漫岛","name": "🌸动漫岛","type": 3, "changeable": 1,"searchable": 1,"quickSearch": 0,"filterable": 1,"api": "csp_XBPQ","ext":"./json/动漫岛.json"},
 { "key": "风车动漫", "name": "🌸风车动漫", "type":3,"api":"csp_XBPQ","searchable": 1,"quickSearch": 0,"filterable": 1,"ext":"./json/风车动漫.json"},
 {"key":"drpy_js_有声小说","name":"📻有声小说[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/有声小说.js","quickSearch":0,"playerType":"2","style":{"type":"rect","ratio":1}},
@@ -423,25 +417,6 @@
       "api": "https://api.zuidapi.com/api.php/provide/vod/from/zuidam3u8/"
     },
 
-    {
-      "key": "t4直播转点播",
-      "name": "👒T4教育",
-      "type": 4,
-      "api": "http://120.53.102.254/dsp16",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },    
-    {
-      "key": "t42直播转点播",
-      "name": "👒T4直播",
-      "type": 4,
-      "api": "http://120.53.102.254/dsp999",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-
        {
             "key":"360",
             "name":"👑360采集",
@@ -486,7 +461,7 @@
 {"key":"js_B站精简","name": "💕哔哩精简💕","type": 3,"api": "./lib/drpy2.min.js", "searchable": 1,"filterable": 1,"changeable": 0,"ext": "./lib/B站精简.js"},
 
 {"key":"hipy_js_种子音乐[听]","name":"🎧种子音乐[听](drpy_t3)","type":3,"api":"./drpy_libs/drpy2.min.js","searchable":1,"quickSearch":0,"filterable":1,"order_num": 0,"ext":"https://bitbucket.org/xduo/libs/raw/master/drpy_js/种子音乐[听].js" },
-{"key": "csp_Live2Vod_1","name": "┃🖥网络电视┃","type": 3,"api": "csp_Live2Vod","jar": "./jar/Live2Vod.jar","searchable": 1,"quickSearch": 0,"filterable": 1,"ext":"🌈顺财$https://gh-proxy.net/https://raw.githubusercontent.com/lishuncai8881/TVBox/master/lives/直播.txt#🎆暮雨$https://4key.cn/FP#👑范明明$https://gh.llkk.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u#👑猫TV$http://rihou.cc:555/gggg.nzk#👑央视卫视$https://l.gmbbk.com/upload/13571357.txt#👑杂2$https://fel.forxhr.top:2022/down.php/9130cbef574b3d09b7c45feec3caca03.txt&&&http://3650000.xyz/api/360.php?cid=6"}
+{"key": "csp_Live2Vod_1","name": "┃🖥网络电视┃","type": 3,"api": "csp_Live2Vod","jar": "./jar/Live2Vod.jar","searchable": 1,"quickSearch": 0,"filterable": 1,"ext":"🌈顺财$https://gh.llkk.cc/https://raw.githubusercontent.com/lishuncai8881/TVBox/master/lives/直播.txt#🎆暮雨$https://4key.cn/FP#👑范明明$https://gh.llkk.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u#👑猫TV$http://rihou.cc:555/gggg.nzk#👑央视卫视$https://l.gmbbk.com/upload/13571357.txt#👑杂2$https://fel.forxhr.top:2022/down.php/9130cbef574b3d09b7c45feec3caca03.txt&&&http://3650000.xyz/api/360.php?cid=6"}
 
 
 
