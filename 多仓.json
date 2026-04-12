@@ -2,7 +2,7 @@
 {
 "urls": [
 {"url": "http://127.0.0.1:9978/file/TVBox/顺财.txt","name":"🌐顺财本地🌐"},
-{"url": "https://gitee.com/lsc800416/tvbox/raw/master/%E9%A1%BA.json","name":"♻️顺财gitee🌐"},
+{"url": "https://gitee.com/lsc800416/TV/raw/master/%E9%A1%BA%E8%B4%A2.json","name":"♻️顺财gitee🌐"},
 {"url": "https://raw.bgithub.xyz/lishuncai8881/TVBox/main/%E9%A1%BA%E8%B4%A2.json","name":"♻️顺财github💕"},
 {"name":"🌐潇洒🌐","url":"https://raw.bgithub.xyz/qist/tvbox/refs/heads/master/xiaosa/api.json"},
 {"name":"🌐南风🌐","url":"https://raw.bgithub.xyz/yoursmile66/TVBox/main/XC.json"},
