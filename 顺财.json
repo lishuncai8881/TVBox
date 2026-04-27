@@ -15,9 +15,26 @@
  {"key": "应用商店", "name": "🏫应用商店", "type": 3, "api": "csp_Market", "searchable": 0, "changeable": 0, "ext": "./json/yysd.json", "jar": "./jar/应用市场.jar" },
 {"key": "csp_Live2Vod_1","name": "┃🖥网络电视┃","type": 3,"api": "csp_Live2Vod","jar": "./jar/Live2Vod.jar","searchable": 1,"quickSearch": 0,"filterable": 1,"ext":"🌈顺$./lives/直.txt#🌈顺财$./lives/直播.txt#🎆iptv-xx$https://xx.gcl.de5.net#🎆暮雨$https://4key.cn/FP#👑范明明$https://ghfast.top/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u#👑猫TV$http://rihou.cc:555/gggg.nzk#👑央视卫视$https://l.gmbbk.com/upload/13571357.txt#👑杂2$https://fel.forxhr.top:2022/down.php/9130cbef574b3d09b7c45feec3caca03.txt&&&http://3650000.xyz/api/360.php?cid=6"},
 {"key":"瓜子","name":"💥瓜子💥","type":3,"jar":"https://ghfast.top/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/xiaosa/spider.jar","api":"csp_Gz360", "searchable": 1, "quickSearch": 0, "filterable": 1 },
-{"key":"聚合短剧","name":"🈴聚合短剧","type":3,"api":"csp_JuheShortDrama","jar":"https://jihulab.com/yoursmile2/TVBox/-/raw/master/Yoursmile.jar","searchable":1,"filterable":0,"switchable":0,"ext":{"host":{"百度":"https://api.jkyai.top","甜圈":"https://mov.cenguigui.cn","锦鲤":"https://api.jinlidj.com","番茄":"https://reading.snssdk.com","番茄2":"https://fqgo.52dns.cc","星芽":"https://app.whjzjx.cn","星芽登录":"https://u.shytkjgs.com","西饭":"https://xifan-api-cn.youlishipin.com","围观":"https://api.drama.9ddm.com","碎片":"https://free-api.bighotwind.cc","碎片图片":"https://speed.hiknz.com"}}},
-{"key":"甜圈短剧","name":"💟甜圈短剧","type":3,"jar": "./jar/ok.jpg","api":"csp_TianQuanGuard","searchable":1,"quickSearch":0,"filterable":1,"timeout":10},
-   {"key":"河马短剧","name":"🦓河马┃短剧","type":3,"api":"csp_AweSomeGuard", "jar": "http://oss4liview.moji.com/thd_file/2026/01/26/0e8629c873fea38d04bc58cbeb28c3c5.jpg","searchable":1,"quickSearch":0,"changeable":0,"filterable":1,"ext": {"sp": "HeMa"}, "timeout":10},
+{"key":"csp_Guazi","name":"😳瓜子┃优质","type":3,"api":"csp_Guazi","jar":"http://rihou.cc:88/jar/vox.jar","searchable":1,"changeable":1, "quickSearch": 0},
+//{"key":"聚合短剧","name":"🈴聚合短剧","type":3,"jar":"https://jihulab.com/yoursmile2/TVBox/-/raw/master/Yoursmile.jar","api":"csp_JuheShortDrama","searchable":1,"filterable":1,"switchable":1,"quickSearch": 0,"ext":{"host":{"甜圈":"https://mov.cenguigui.cn","锦鲤":"https://api.jinlidj.com","番茄":"https://reading.snssdk.com","番茄2":"https://fqgo.52dns.cc","星芽":"https://app.whjzjx.cn","星芽登录":"https://u.shytkjgs.com","西饭":"https://xifan-api-cn.youlishipin.com","七猫":"https://api-store.qmplaylet.com","七猫详情":"https://api-read.qmplaylet.com","围观":"https://api.drama.9ddm.com","碎片":"https://free-api.bighotwind.cc","碎片图片":"https://speed.hiknz.com"}}},
+{"key": "甜圈短剧","name": "🤖甜圈｜短剧","type": 3,"jar":"https://ghfast.top/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/xiaosa/spider.jar","api": "csp_TianquanDJ","searchable": 1,"changeable": 1,"quickSearch": 0,"filterable": 1},
+{"key": "围观短剧","name": "👁围观｜短剧","type": 3,"api": "csp_WeiguanDJ","jar":"https://ghfast.top/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/xiaosa/spider.jar","searchable": 1,"changeable": 1,"quickSearch": 0,"filterable": 1,"genre": "shortdrama"},
+    {
+      "key": "jh短剧--短剧｜星源",
+      "name": "😋聚合┃短剧",
+      "type": 4,
+      "style": {
+        "type": "rect",
+        "ratio": 1.485
+      },
+      "api": "https://xy.183933.xyz/php/jhdj.php/vod",
+      "genre": "shortdrama",
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch":0
+    },
+{"key":"盒马短剧","name":"🦓盒马┃短剧","type":3,"api":"csp_AweSomeGuard", "jar": "http://oss4liview.moji.com/thd_file/2026/01/26/0e8629c873fea38d04bc58cbeb28c3c5.jpg","searchable":1,"quickSearch":0,"changeable":0,"filterable":1,"ext": {"sp": "HeMa"}, "timeout":10},
+{"name":"🛸盒马短剧","key":"Hema","type":3,"api":"csp_HemaAmns","playerType":2,"searchable":1,"filterable":1,"quickSearch":0,"changeable":1,"genre":"shortdrama","jar":"https://jihulab.com/yoursmile3/TVBox/-/raw/main/custom_spider.jar"},
 {"key": "js_星芽短剧","name": "🎦星芽短剧","type": 3,"api":"./drpy_libs/drpy2.min.js","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "./drpy_js/星芽短剧.js"},
     {"key":"csp_sp_龙门短剧","name":"🤖爬虫┃龙门短剧","type":1,"api":"https://api.wwzy.tv/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1,"categories":["短剧"]},
     {"key":"csp_sp_龙门动漫","name":"🤖爬虫┃龙门动漫","type":1,"api":"https://api.maoyanapi.top/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1,"categories":["国产动漫","里番动漫","日韩动漫","欧美动漫"]},
@@ -30,15 +47,6 @@
 {"key":"红果","name":"💥红果💥","type":3,"api":"csp_XBPQ","changeable": 1, "searchable": 1, "quickSearch": 0, "filterable": 1, "ext":"./json/红果.json"},
 {"key":"剧王","name":"💥剧王短剧💥","type":3,"api":"csp_XBPQ","changeable": 1, "searchable": 1, "quickSearch": 0, "filterable": 1, "ext":"./json/剧王短剧.json"},
 
-	  {
-        "key": "剧评",
-        "name": "💙剧评┃App",
-        "type": 3,
-        "api": "csp_Jpys",
-        "playerType": 1,
-        "jar": "http://tv.laohu.cool/lh250524.jar;md5;5dd760d88db059e93c31f77a7e785d3e",
-        "ext": "7lj763gg402i7942463j9j9jh84l8798l8gli652828g332i"
-    },
 {"key": "csp_QQ","name": "🐧腾讯视频","type": 3,"api": "csp_QQ","searchable": 1,"quickSearch": 0,"filterable": 1,"jar":"./jar/xzy1029.jar"}, 
 {"key": "csp_MGTV","name": "🥭芒果视频","type": 3,"api": "csp_Mgtv","searchable": 1,"quickSearch": 0,"filterable": 1,"jar":"./jar/xzy1029.jar"}, 
 {"key": "csp_IQIYI","name": "🥝爱奇艺视频","type": 3,"api": "csp_IQIYI","searchable": 1,"quickSearch": 0,"filterable": 1,"jar":"./jar/xzy1029.jar"},
@@ -471,6 +479,7 @@
                 ]
             }
         },
+
 {"key": "csp_XYQHiker_戏曲多多","name":"🎻戏曲多多","type":3,"api":"csp_XYQHiker","jar": "./jar/custom_spider.jar","searchable":1,"quickSearch":0,"filterable":1,"ext":"./json/戏曲多多.json"},
 {"key": "hipy_js_一曲肝肠断","name": "🎧一曲肝肠断(drpy_t3)","type": 3,"api": "./drpy_libs/drpy2.min.js","searchable": 1,"quickSearch": 0,"filterable": 1,"order_num": 0,"ext": "./drpy_js/一曲肝肠断.js"},
 {"key":"js_B站精简","name": "💕哔哩精简💕","type": 3,"api": "./lib/drpy2.min.js", "searchable": 1,"filterable": 1,"changeable": 0,"ext": "./lib/B站精简.js"},
