@@ -1,7 +1,3 @@
-
-
-
-
 //接口内容来自网络数位大佬，如有冒犯，请联系删除，感谢各位大佬无私奉献。
 // 本地配置地址 --> http://127.0.0.1:9978/file/TVBox/顺财.txt
 
@@ -33,7 +29,7 @@
       "changeable": 1,
       "quickSearch":0
     },
-{"key":"盒马短剧","name":"🦓盒马┃短剧","type":3,"api":"csp_AweSomeGuard", "jar": "http://oss4liview.moji.com/thd_file/2026/01/26/0e8629c873fea38d04bc58cbeb28c3c5.jpg","searchable":1,"quickSearch":0,"changeable":0,"filterable":1,"ext": {"sp": "HeMa"}, "timeout":10},
+//{"key":"盒马短剧","name":"🦓盒马┃短剧","type":3,"api":"csp_AweSomeGuard", "jar": "http://oss4liview.moji.com/thd_file/2026/01/26/0e8629c873fea38d04bc58cbeb28c3c5.jpg","searchable":1,"quickSearch":0,"changeable":0,"filterable":1,"ext": {"sp": "HeMa"}, "timeout":10},
 {"name":"🛸盒马短剧","key":"Hema","type":3,"api":"csp_HemaAmns","playerType":2,"searchable":1,"filterable":1,"quickSearch":0,"changeable":1,"genre":"shortdrama","jar":"https://jihulab.com/yoursmile3/TVBox/-/raw/main/custom_spider.jar"},
 {"key": "js_星芽短剧","name": "🎦星芽短剧","type": 3,"api":"./drpy_libs/drpy2.min.js","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "./drpy_js/星芽短剧.js"},
     {"key":"csp_sp_龙门短剧","name":"🤖爬虫┃龙门短剧","type":1,"api":"https://api.wwzy.tv/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1,"categories":["短剧"]},
