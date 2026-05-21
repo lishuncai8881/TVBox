@@ -464,7 +464,7 @@
             "quickSearch": 0,
             "filterable": 0,
             "ext": {
-                "json": "./json/哔哩哔哩听书.json",
+                "json": "./Bilibili/哔哩哔哩听书.json",
                 "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
             },
             "style": {
@@ -487,7 +487,7 @@
                 "ratio": 1.433
             },
             "ext": {
-                "json": "./json/哔哩合集.json",
+                "json": "./Bilibili/哔哩合集.json",
                 "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
             }
         },
@@ -501,7 +501,7 @@
             "quickSearch": 0,
             "filterable": 0,
             "ext": {
-                "json": "./json/哔哩哔哩演唱会.json",
+                "json": "./Bilibili/哔哩哔哩演唱会.json",
                 "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
             },
             "style": {
@@ -519,7 +519,7 @@
             "quickSearch": 0,
             "filterable": 0,
             "ext": {
-                "json": "./json/哔哩哔哩相声.json",
+                "json": "./Bilibili/哔哩哔哩相声.json",
                 "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
             },
             "style": {
@@ -537,7 +537,7 @@
             "quickSearch": 0,
             "filterable": 0,
             "ext": {
-                "json": "./json/哔哩哔哩小品.json",
+                "json": "./Bilibili/哔哩哔哩小品.json",
                 "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
             },
             "style": {
@@ -555,7 +555,7 @@
             "quickSearch": 0,
             "filterable": 0,
             "ext": {
-                "json": "./json/哔哩哔哩戏曲.json",
+                "json": "./Bilibili/哔哩哔哩戏曲.json",
                 "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
             },
             "style": {
@@ -573,7 +573,7 @@
             "quickSearch": 0,
             "filterable": 1,
             "ext": {
-                "json": "./json/少儿教育.json",
+                "json": "./Bilibili/少儿教育.json",
                 "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
             },
             "style": {
@@ -591,7 +591,7 @@
             "quickSearch": 0,
             "filterable": 1,
             "ext": {
-                "json": "./json/小学课堂.json",
+                "json": "./Bilibili/小学课堂.json",
                 "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
             },
             "style": {
@@ -609,7 +609,7 @@
             "quickSearch": 0,
             "filterable": 1,
             "ext": {
-                "json": "./json/初中课堂.json",
+                "json": "./Bilibili/初中课堂.json",
                 "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
             },
             "style": {
@@ -627,7 +627,7 @@
             "quickSearch": 0,
             "filterable": 1,
             "ext": {
-                "json": "./json/高中课堂.json",
+                "json": "./Bilibili/高中课堂.json",
                 "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
             },
             "style": {
@@ -650,18 +650,7 @@
             },
             "gridview": "0-0-4.1"
         },
-        {
-            "key": "养生堂",
-            "name": "养生｜知识",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "jar": "./jar/spider.jar",
-            "ext": "./XBPQ/养生堂.json",
-            "style": {
-                "type": "rect",
-                "ratio": 1.597
-            }
-        },
+
         //{"key": "哔哩哔哩","name": "🅱️哔哩┃哔哩","type": 3,"api": "csp_Bili","jar": "./jar/spider.jar","style": {"type": "rect","ratio": 1.597},"searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "./Bilibili/哔哩哔哩.json"},
 //{"key": "哔哩合集","name": "🅱️哔哩┃合集","type": 3,"api": "csp_Bili","jar": "./jar/spider.jar","style": {"type": "rect","ratio": 1.597},"searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "./Bilibili/哔哩合集.json"},	  
 //{"key": "中医药","name": "🅱️中医┃药区","type": 3,"api": "csp_Bili","jar": "./jar/spider.jar","style": {"type": "rect","ratio": 1.597},"searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "./Bilibili/中医药.json"},
