@@ -454,15 +454,222 @@
             ]
         }, 
 {"key":"MV点播","name":"📺顺MV欣赏","searchable": 1,"changeable": 1,"quickSearch": 0,"type": 3,"api": "./mv/live2cms.js","ext":"./mv/万首MV.json"},
-   {"key": "哔哩小说","name": "🅱️哔哩┃小说","type": 3,"api": "csp_Bili","jar": "./jar/spider.jar","style": {"type": "rect","ratio": 1.597},"searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "./Bilibili/哔哩小说.json"},
-{"key": "哔哩哔哩","name": "🅱️哔哩┃哔哩","type": 3,"api": "csp_Bili","jar": "./jar/spider.jar","style": {"type": "rect","ratio": 1.597},"searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "./Bilibili/哔哩哔哩.json"},
-{"key": "哔哩合集","name": "🅱️哔哩┃合集","type": 3,"api": "csp_Bili","jar": "./jar/spider.jar","style": {"type": "rect","ratio": 1.597},"searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "./Bilibili/哔哩合集.json"},	  
-{"key": "中医药","name": "🅱️中医┃药区","type": 3,"api": "csp_Bili","jar": "./jar/spider.jar","style": {"type": "rect","ratio": 1.597},"searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "./Bilibili/中医药.json"},
-{"key": "相声小品","name": "🅱️相声┃小品","type": 3,"api": "csp_Bili","jar": "./jar/spider.jar","style": {"type": "rect","ratio": 1.597},"searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "./Bilibili/相声小品.json"},
-{"key": "戏曲","name": "🅱️戏曲┃大全","type": 3,"api": "csp_Bili","jar": "./jar/spider.jar","style": {"type": "rect","ratio": 1.597},"searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "./Bilibili/哔哩戏曲.json"},
-{"key": "MV","name": "🅱️哔哩┃MV","type": 3,"api": "csp_Bili","jar": "./jar/spider.jar","style": {"type": "rect","ratio": 1.597},"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./Bilibili/哔哩MTV.json"},
-{"key": "歌舞","name": "💃印度┃歌舞","type": 3,"api": "csp_Bili","jar": "./jar/spider.jar","style": {"type": "rect","ratio": 1.597},"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./Bilibili/印度歌舞.json"},
-{"key": "舞蹈","name": "🎗️哔哩┃舞蹈","type": 3,"api": "csp_Bili","jar": "./jar/spider.jar","style": {"type": "rect","ratio": 1.597},"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./Bilibili/哔哩舞蹈.json"},
+         {
+            "key": "哔哩哔哩听书",
+            "name": "🅱️哔哩｜听书",
+            "type": 3,
+            "api": "csp_Bili",
+            "jar": "./jar/spider.jar",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": {
+                "json": "./json/哔哩哔哩听书.json",
+                "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
+            },
+            "style": {
+                "type": "rect",
+                "ratio": 1.597
+            }
+        },
+      {
+            "key": "哔哩合集",
+            "name": "🅱️哔哩｜合集",
+            "type": 3,
+            "api": "csp_Bili",
+            "jar": "./jar/spider.jar",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0,
+            "changeable": 0,
+            "style": {
+                "type": "rect",
+                "ratio": 1.433
+            },
+            "ext": {
+                "json": "./json/哔哩合集.json",
+                "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
+            }
+        },
+        {
+            "key": "哔哩哔哩演唱会",
+            "name": "🅱️哔哩｜音乐",
+            "type": 3,
+            "api": "csp_Bili",
+            "jar": "./jar/spider.jar",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": {
+                "json": "./json/哔哩哔哩演唱会.json",
+                "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
+            },
+            "style": {
+                "type": "rect",
+                "ratio": 1.597
+            }
+        },
+        {
+            "key": "哔哩哔哩相声",
+            "name": "🅱️哔哩｜相声",
+            "type": 3,
+            "api": "csp_Bili",
+            "jar": "./jar/spider.jar",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": {
+                "json": "./json/哔哩哔哩相声.json",
+                "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
+            },
+            "style": {
+                "type": "rect",
+                "ratio": 1.597
+            }
+        },
+        {
+            "key": "哔哩哔哩小品",
+            "name": "🅱️哔哩｜小品",
+            "type": 3,
+            "api": "csp_Bili",
+            "jar": "./jar/spider.jar",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": {
+                "json": "./json/哔哩哔哩小品.json",
+                "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
+            },
+            "style": {
+                "type": "rect",
+                "ratio": 1.597
+            }
+        },
+        {
+            "key": "哔哩哔哩戏曲",
+            "name": "🅱️哔哩｜戏曲",
+            "type": 3,
+            "api": "csp_Bili",
+            "jar": "./jar/spider.jar",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": {
+                "json": "./json/哔哩哔哩戏曲.json",
+                "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
+            },
+            "style": {
+                "type": "rect",
+                "ratio": 1.597
+            }
+        },
+        {
+            "key": "少儿教育",
+            "name": "🅱️少儿｜教育",
+            "type": 3,
+            "api": "csp_Bili",
+            "jar": "./jar/spider.jar",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": {
+                "json": "./json/少儿教育.json",
+                "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
+            },
+            "style": {
+                "type": "rect",
+                "ratio": 1.597
+            }
+        },
+        {
+            "key": "小学课堂",
+            "name": "🅱️小学｜课堂",
+            "type": 3,
+            "api": "csp_Bili",
+            "jar": "./jar/spider.jar",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": {
+                "json": "./json/小学课堂.json",
+                "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
+            },
+            "style": {
+                "type": "rect",
+                "ratio": 1.597
+            }
+        },
+        {
+            "key": "初中课堂",
+            "name": "🅱️初中｜课堂",
+            "type": 3,
+            "api": "csp_Bili",
+            "jar": "./jar/spider.jar",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": {
+                "json": "./json/初中课堂.json",
+                "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
+            },
+            "style": {
+                "type": "rect",
+                "ratio": 1.597
+            }
+        },
+        {
+            "key": "高中课堂",
+            "name": "🅱️高中｜课堂",
+            "type": 3,
+            "api": "csp_Bili",
+            "jar": "./jar/spider.jar",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": {
+                "json": "./json/高中课堂.json",
+                "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
+            },
+            "style": {
+                "type": "rect",
+                "ratio": 1.597
+            }
+        },
+        {
+            "key": "急救教学",
+            "name": "急救｜教学",
+            "type": 3,
+            "api": "csp_FirstAid",
+            "jar": "./jar/spider.jar",
+            "searchable": 0,
+            "quickSearch": 0,
+            "changeable": 0,
+            "style": {
+                "type": "rect",
+                "ratio": 3.8
+            },
+            "gridview": "0-0-4.1"
+        },
+        {
+            "key": "养生堂",
+            "name": "养生｜知识",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "./jar/spider.jar",
+            "ext": "./XBPQ/养生堂.json",
+            "style": {
+                "type": "rect",
+                "ratio": 1.597
+            }
+        },
+        //{"key": "哔哩哔哩","name": "🅱️哔哩┃哔哩","type": 3,"api": "csp_Bili","jar": "./jar/spider.jar","style": {"type": "rect","ratio": 1.597},"searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "./Bilibili/哔哩哔哩.json"},
+//{"key": "哔哩合集","name": "🅱️哔哩┃合集","type": 3,"api": "csp_Bili","jar": "./jar/spider.jar","style": {"type": "rect","ratio": 1.597},"searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "./Bilibili/哔哩合集.json"},	  
+//{"key": "中医药","name": "🅱️中医┃药区","type": 3,"api": "csp_Bili","jar": "./jar/spider.jar","style": {"type": "rect","ratio": 1.597},"searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "./Bilibili/中医药.json"},
+//{"key": "相声小品","name": "🅱️相声┃小品","type": 3,"api": "csp_Bili","jar": "./jar/spider.jar","style": {"type": "rect","ratio": 1.597},"searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "./Bilibili/相声小品.json"},
+//{"key": "戏曲","name": "🅱️戏曲┃大全","type": 3,"api": "csp_Bili","jar": "./jar/spider.jar","style": {"type": "rect","ratio": 1.597},"searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "./Bilibili/哔哩戏曲.json"},
+//{"key": "MV","name": "🅱️哔哩┃MV","type": 3,"api": "csp_Bili","jar": "./jar/spider.jar","style": {"type": "rect","ratio": 1.597},"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./Bilibili/哔哩MTV.json"},
+//{"key": "歌舞","name": "💃印度┃歌舞","type": 3,"api": "csp_Bili","jar": "./jar/spider.jar","style": {"type": "rect","ratio": 1.597},"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./Bilibili/印度歌舞.json"},
+//{"key": "舞蹈","name": "🎗️哔哩┃舞蹈","type": 3,"api": "csp_Bili","jar": "./jar/spider.jar","style": {"type": "rect","ratio": 1.597},"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./Bilibili/哔哩舞蹈.json"},
 {
             "key": "酷狗",
             "name": "🐾┃酷狗┃音乐",
