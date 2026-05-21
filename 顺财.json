@@ -674,8 +674,15 @@
 
 {"key": "csp_XYQHiker_戏曲多多","name":"🎻戏曲多多","type":3,"api":"csp_XYQHiker","jar": "./jar/custom_spider.jar","searchable":1,"quickSearch":0,"filterable":1,"ext":"./json/戏曲多多.json"},
 {"key": "hipy_js_一曲肝肠断","name": "🎧一曲肝肠断(drpy_t3)","type": 3,"api": "./drpy_libs/drpy2.min.js","searchable": 1,"quickSearch": 0,"filterable": 1,"order_num": 0,"ext": "./drpy_js/一曲肝肠断.js"},
-{"key":"js_B站精简","name": "💕哔哩精简💕","type": 3,"api": "./lib/drpy2.min.js", "searchable": 1,"filterable": 1,"changeable": 0,"ext": "./lib/B站精简.js"},
-
+    {
+      "key": "Iktv",
+      "name": "🎤KTV┃音乐🎤",
+      "type": 3,
+      "jar": "https://nos.netease.com/ysf/4be3c8f23848a17afc6a4ff87d47a772.txt",
+      "api": "csp_WexIktvGuard",
+      "searchable": 1,
+      "changeable": 0
+    },
 {"key":"hipy_js_种子音乐[听]","name":"🎧种子音乐[听](drpy_t3)","type":3,"api":"./drpy_libs/drpy2.min.js","searchable":1,"quickSearch":0,"filterable":1,"order_num": 0,"ext":"https://bitbucket.org/xduo/libs/raw/master/drpy_js/种子音乐[听].js" }
 
 
