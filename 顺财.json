@@ -678,7 +678,7 @@
       "key": "Iktv",
       "name": "🎤KTV┃音乐🎤",
       "type": 3,
-      "jar": "https://nos.netease.com/ysf/4be3c8f23848a17afc6a4ff87d47a772.txt",
+      "jar": "https://nos.netease.com/ysf/4be3c8f23848a17afc6a4ff87d47a772.txt;md5;6b497b8e531f046481e3e94cc3dccece",
       "api": "csp_WexIktvGuard",
       "searchable": 1,
       "changeable": 0
