@@ -487,6 +487,44 @@
                 "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
             }
         },
+      {
+            "key": "哔哩合集",
+            "name": "🅱️哔哩｜合集1",
+            "type": 3,
+            "api": "csp_Bili",
+            "jar": "./jar/spider.jar",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0,
+            "changeable": 0,
+            "style": {
+                "type": "rect",
+                "ratio": 1.433
+            },
+            "ext": {
+                "json": "./Bilibili/哔哩合集1.json",
+                "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
+            }
+        },
+      {
+            "key": "哔哩合集",
+            "name": "🅱️哔哩｜合集2",
+            "type": 3,
+            "api": "csp_Bili",
+            "jar": "./jar/spider.jar",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0,
+            "changeable": 0,
+            "style": {
+                "type": "rect",
+                "ratio": 1.433
+            },
+            "ext": {
+                "json": "./Bilibili/哔哩合集2.json",
+                "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
+            }
+        },
         {
             "key": "哔哩哔哩演唱会",
             "name": "🅱️哔哩｜音乐",

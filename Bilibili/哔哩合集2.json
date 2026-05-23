@@ -3,7 +3,7 @@
 {
 //"cookie": "https://agit.ai/30215429/TVBox/raw/branch/master/bilibili/cookie.txt",
 "cookie":"buvid3=0C0EAA18-337F-AAF2-24AE-056923FB837C49297infoc; bsource=search_baidu; _uuid=101C54512-F10CA-4636-B765-4EE8FE39894951470infoc; buvid4=FFAF1612-66B0-CAC0-5CF3-1455817C5C6851611-123090815-uk4%2FG28K78zhW9xeZbPKMgakoJaD5BH70OPlgUluoy%2BvEotkFzXwug%3D%3D; buvid_fp=cd8bc9cd00c18c6d5cd995c568d3d4ac; b_nut=100; rpdid=0zbfVFT5WN|C5GmE9v7|21C|3w1QEBl6; enable_web_push=DISABLE; header_theme_version=CLOSE; home_feed_column=4; is-2022-channel=1; CURRENT_FNVAL=1; innersign=0; browser_resolution=1100-2054; DedeUserID=1958790055; DedeUserID__ckMd5=317ab4d7713cf829; FEED_LIVE_VERSION=V_WATCHLATER_PIP_WINDOW2; b_lsid=722B2E69_18EA1305CAB; bili_ticket=eyJhbGciOiJIUzI1NiIsImtpZCI6InMwMyIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MTIzNjA0ODYsImlhdCI6MTcxMjEwMTIyNiwicGx0IjotMX0.SPYe0Btd-dfNU74W_PR3l2Zb72Gt2iJxbC4T4K_qiEg; bili_ticket_expires=1712360426; SESSDATA=f2d9c424%2C1727653427%2C31bff%2A42CjAs9-pj-71jhsqEIWDEyrx3ewz8EwSX4WHCwzbHEqbmFhayvSGnUSjaVs_IXrHdoR4SVmxsamVMc0gwOVRObEFEY1lhdWpSZWJsLUZHdFVlUDVDbFBSek02UUFOZE1OS3UycDVuTi1KMFVEaXVFVW5sazR2Z3ZlSTFNMWozbU04NE1YeVRfM2x3IIEC; bili_jct=d27c21aa284bcb097ebdb448e03cce2c; sid=fajzlcbv",
-    "classes": [
+    "class": [
         {
             "type_name": "广场舞",
             "type_id": "广场舞"
@@ -54,6 +54,7 @@
 {"type_name":"健身","type_id":"健身"},
 {"type_name":"食谱","type_id":"食谱"},
 {"type_name":"球星","type_id":"球星"},
+{"type_name":"鬼畜","type_id":"鬼畜"},
 {"type_name":"动物世界","type_id":"动物世界4K"},
 {"type_name":"窗白噪音","type_id":"窗白噪音4K"},
 {"type_name":"UP主","type_id":"UP主"}
