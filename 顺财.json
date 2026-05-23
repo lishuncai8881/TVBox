@@ -560,6 +560,43 @@
             }
         },
         {
+            "key": "哔哩印度歌舞",
+            "name": "🅱️哔哩｜印度歌舞",
+            "type": 3,
+            "api": "csp_Bili",
+            "jar": "./jar/spider.jar",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": {
+                "json": "./Bilibili/印度歌舞.json",
+                "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
+            },
+            "style": {
+                "type": "rect",
+                "ratio": 1.597
+            }
+        },
+
+        {
+            "key": "哔哩中医药",
+            "name": "🅱️哔哩｜中医药",
+            "type": 3,
+            "api": "csp_Bili",
+            "jar": "./jar/spider.jar",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": {
+                "json": "./Bilibili/中医药.json",
+                "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
+            },
+            "style": {
+                "type": "rect",
+                "ratio": 1.597
+            }
+        },
+        {
             "key": "少儿教育",
             "name": "🅱️少儿｜教育",
             "type": 3,
