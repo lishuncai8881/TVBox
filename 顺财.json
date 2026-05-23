@@ -488,8 +488,8 @@
             }
         },
       {
-            "key": "哔哩合集",
-            "name": "🅱️哔哩｜合集1",
+            "key": "哔哩合集1",
+            "name": "🅱️哔哩合集1",
             "type": 3,
             "api": "csp_Bili",
             "jar": "./jar/spider.jar",
@@ -507,8 +507,8 @@
             }
         },
       {
-            "key": "哔哩合集",
-            "name": "🅱️哔哩｜合集2",
+            "key": "哔哩合集2",
+            "name": "🅱️哔哩合集2",
             "type": 3,
             "api": "csp_Bili",
             "jar": "./jar/spider.jar",
