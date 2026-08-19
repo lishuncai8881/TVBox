@@ -254,12 +254,13 @@ http://42.225.117.174:11199/tsfile/live/0002_1.m3u8
 6,http://154.222.30.196:7888/php/ss123.php?id=6
 7,http://154.222.30.196:7888/php/ss123.php?id=7
 🔞直播台,#genre#
-驚艷台,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/87.ts
+彩虹台,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/87.ts
 驚艷台,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/85.ts
 潘朵拉完美,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/86.ts
 松视1,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/88.ts
 松视2,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/89.ts
 松視3,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/90.ts
+香蕉,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/117.ts
 1色降2之血玫瑰,https://vip1.lz-cdn1.com/20220331/733_58b741b7/index.m3u8
 2新七擒七纵七色狼,https://jkunnzyx.com/20250426/uToXhon9/index.m3u8
 3倩女幽魂,https://jkunnzyx.com/20250423/nU0wWqCw/2000kb/hls/index.m3u8
